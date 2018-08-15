@@ -44,14 +44,14 @@ ext {
 
     libraryDescription = 'A wrapper for Facebook Native Like Button (LikeView) on Android'
 
-    siteUrl = 'https://github.com/nuuneoi/FBLikeAndroid'
-    gitUrl = 'https://github.com/nuuneoi/FBLikeAndroid.git'
+    siteUrl = 'https://github.com/ledangtuanbk/testlib'
+    gitUrl = 'https://github.com/ledangtuanbk/testlib.git'
 
     libraryVersion = '1.0.0'
 
-    developerId = 'nuuneoi'
-    developerName = 'Sittiphol Phanvilai'
-    developerEmail = 'sittiphol@gmail.com'
+    developerId = 'ledangtuanbk'
+    developerName = 'Le Dang Tuan'
+    developerEmail = 'ledangtuanbk@gmail.com'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
